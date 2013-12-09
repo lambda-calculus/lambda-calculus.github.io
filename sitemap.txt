@@ -1,2 +1,2 @@
-http://corry-howard.github.io/blog/2012/01/01/a-2012-blog-post/
-http://corry-howard.github.io/About.html
+http://lambda-calculus.github.io/blog/2012/01/01/a-2012-blog-post/
+http://lambda-calculus.github.io/About.html

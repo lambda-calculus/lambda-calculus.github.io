@@ -1,7 +1,7 @@
 # Required: Should NOT end in trailing slash.
-scheme/host = http://corry-howard.github.io
+scheme/host = http://lambda-calculus.github.io
 
-title = Curry-Howard correspondence
+title = Lambda Calculus
 author = Athena
 
 # Whether to show the count of posts next to each tag in sidebar
