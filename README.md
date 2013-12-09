@@ -1,4 +1,4 @@
-curry-howard.github.io
-======================
+lambda-calculus.github.io
+=========================
 
 Blog
