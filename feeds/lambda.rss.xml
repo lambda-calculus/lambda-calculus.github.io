@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <rss version="2.0">
  <channel>
-  <title>Lambda Calculus: All Posts</title>
-  <description>Lambda Calculus: All Posts</description>
-  <link>http://lambda-calculus.github.io/index.html</link>
+  <title>Lambda Calculus: Posts tagged 'lambda'</title>
+  <description>Lambda Calculus: Posts tagged 'lambda'</description>
+  <link>http://lambda-calculus.github.io/tags/lambda.html</link>
   <lastBuildDate>Mon, 09 Dec 2013 13:22:00 CST</lastBuildDate>
   <pubDate>Mon, 09 Dec 2013 13:22:00 CST</pubDate>
   <ttl>1800</ttl>
   <item>
    <title>hello world</title>
-   <link>http://lambda-calculus.github.io/blog/2013/12/09/hello-world/?utm_source=all&amp;utm_medium=RSS</link>
+   <link>http://lambda-calculus.github.io/blog/2013/12/09/hello-world/?utm_source=lambda&amp;utm_medium=RSS</link>
    <guid>urn:http-lambda-calculus-github-io:-blog-2013-12-09-hello-world</guid>
    <pubDate>Mon, 09 Dec 2013 13:22:00 CST</pubDate>
    <description>
-&lt;html&gt;&lt;img src="http://lambda-calculus.github.io/img/1x1.gif?utm_source=all&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=%2Fblog%2F2013%2F12%2F09%2Fhello-world%2F" height="1" width="1" /&gt;
+&lt;html&gt;&lt;img src="http://lambda-calculus.github.io/img/1x1.gif?utm_source=lambda&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=%2Fblog%2F2013%2F12%2F09%2Fhello-world%2F" height="1" width="1" /&gt;
  &lt;p&gt;lambda: λ&lt;/p&gt;
  &lt;pre&gt;&lt;code&gt;M := x
   := (λx.M)

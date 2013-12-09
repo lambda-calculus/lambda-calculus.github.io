@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Lambda Calculus: Posts tagged 'lambda'</title>
+ <link rel="self" href="http://lambda-calculus.github.io/feeds/lambda.atom.xml" />
+ <link href="http://lambda-calculus.github.io/tags/lambda.html" />
+ <id>urn:http-lambda-calculus-github-io:-tags-lambda-html</id>
+ <updated>2013-12-09T13:22:00Z</updated>
+ <entry>
+  <title type="text">hello world</title>
+  <link rel="alternate" href="http://lambda-calculus.github.io/blog/2013/12/09/hello-world/?utm_source=lambda&amp;utm_medium=Atom" />
+  <id>urn:http-lambda-calculus-github-io:-blog-2013-12-09-hello-world</id>
+  <published>2013-12-09T13:22:00Z</published>
+  <updated>2013-12-09T13:22:00Z</updated>
+  <author>
+   <name>Maple Rain</name></author>
+  <content type="html">
+&lt;html&gt;&lt;img src="http://lambda-calculus.github.io/img/1x1.gif?utm_source=lambda&amp;amp;utm_medium=Atom&amp;amp;utm_campaign=%2Fblog%2F2013%2F12%2F09%2Fhello-world%2F" height="1" width="1" /&gt;
+ &lt;p&gt;lambda: λ&lt;/p&gt;
+ &lt;pre&gt;&lt;code&gt;M := x
+  := (λx.M)
+  := (M M)&lt;/code&gt;&lt;/pre&gt;&lt;/html&gt;</content></entry></feed>

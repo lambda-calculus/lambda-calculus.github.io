@@ -1,3 +1,3 @@
 # About page
 
-Your about page, here.
+I am `Maple rain`. Just a blogger.

@@ -2,7 +2,7 @@
 scheme/host = http://lambda-calculus.github.io
 
 title = Lambda Calculus
-author = Athena
+author = Maple Rain
 
 # Whether to show the count of posts next to each tag in sidebar
 show-tag-counts? = true

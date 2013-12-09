@@ -1,2 +1,2 @@
-http://lambda-calculus.github.io/blog/2012/01/01/a-2012-blog-post/
+http://lambda-calculus.github.io/blog/2013/12/09/hello-world/
 http://lambda-calculus.github.io/About.html
