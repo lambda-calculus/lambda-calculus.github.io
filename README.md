@@ -1,4 +1,1 @@
-lambda-calculus.github.io
-=========================
-
-Blog
+[LINK](http://lambda-calculus.github.io)
